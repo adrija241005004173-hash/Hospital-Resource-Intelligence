@@ -240,3 +240,7 @@ Potential future improvements include:
 👨‍💼 Separate hospital-admin dashboard
 📊 More advanced resource forecasting
 
+
+🔗 **Live Demo**
+
+https://hospital-resource-intelligence-bhwrms6wkjirznongmwnko.streamlit.app/Booking
